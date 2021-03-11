@@ -297,7 +297,7 @@ header {
 
 .my-services {
   background-color: var(--clr-dark);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../images/laurenco.jpeg);
   background-size: cover;
   color: var(--clr-light);
@@ -419,7 +419,7 @@ header {
 
 .footer {
   background-color: var(--clr-light);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../images/boston.jpeg);
   background-size: cover;
   color: var(--clr-light);
